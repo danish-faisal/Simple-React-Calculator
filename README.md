@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Project Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple calculator with basic operations built using React & deployed on Heroku
+
+Live: https://basic-calculator-react.herokuapp.com/
 
 ## Available Scripts
 
