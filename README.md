@@ -2,7 +2,7 @@
 
 A simple calculator with basic operations built using React & deployed on Heroku
 
-Live: https://basic-calculator-react.herokuapp.com/
+Live: https://simple-react-calc.vercel.app/
 
 ## Available Scripts
 
